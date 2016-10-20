@@ -1,0 +1,26 @@
+# External Gems
+gems: 						[jekyll-paginate]
+
+# Site Settings
+baseurl: 		""
+title: 			Lndscape
+
+name: 			Lndscape
+description: 	Life is a trip to share.
+url: 			"http://www.lndscape.com"
+
+paginate: 		5
+paginate_path: 	"blog/page:num"
+
+twitter: 		lndscape
+email: 			contact.lndscape@gmail.com
+
+disqus: 		landscape-1
+analytics: 		UA-86042564-1
+
+copyright: 		Copyright 2016 Lndscape.
+
+# Build Settings
+markdown: 					kramdown
+permalink: 					pretty
+highlighter:        rouge
