@@ -8,7 +8,7 @@ navigation: false
 date:   		2016-10-27
 excerpt: 		Se você é um profissional de TI, obter uma permissão de trabalho para Irlanda pode ser mais simples do que você imagina. Nesse post eu vou compartilhar com você a minha experiência no processo obteção de um Critical Skills Employment Permit. Uma permissão de trabalho que é bem simples de requerer e rápida de ser obtida.
 categories:		imigração
-gradient: 		4
+gradient: 		1
 image: 			header-3.jpg
 details:		false
 

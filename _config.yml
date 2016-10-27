@@ -2,7 +2,7 @@
 gems: 						[jekyll-paginate]
 
 # Site Settings
-baseurl: 	  	"http://lndscape.com"
+baseurl: 	  	""
 title: 			  Lndscape
 
 name: 			  Lndscape
