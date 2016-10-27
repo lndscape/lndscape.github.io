@@ -1,5 +1,5 @@
 # External Gems
-gems: 						[jekyll-paginate]
+gems: 						[octopress-paginate]
 
 # Site Settings
 baseurl: 	  	"http://lndscape.com"
