@@ -137,8 +137,8 @@ DEPENDENCIES
   github-pages (= 100)
   jekyll-feed (= 0.7.2)
   jekyll-paginate (= 1.1.0)
-  jekyll-seo-tag (= 2.0.0)
   jekyll-sitemap (= 0.11.0)
+  json
 
 BUNDLED WITH
    1.13.6

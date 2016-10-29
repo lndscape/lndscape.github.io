@@ -6,5 +6,4 @@ versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 gem 'github-pages',   versions['github-pages']
 gem 'jekyll-sitemap', versions['jekyll-sitemap']
 gem 'jekyll-paginate',versions['jekyll-paginate']
-gem 'jekyll-seo-tag', versions['jekyll-seo-tag']
 gem 'jekyll-feed',    versions['jekyll-feed']
